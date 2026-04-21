@@ -18,7 +18,7 @@ This project demonstrates end-to-end data warehouse design and implementation fo
 ## 🎯 Data Visualization - Dashboard
 
 
-<img width="1239" height="699" alt="image" src="https://github.com/user-attachments/assets/0774f38e-fc6b-4700-ac03-b96dbca681e8" />
+<img width="1259" height="694" alt="image" src="https://github.com/user-attachments/assets/69ecd049-2f4b-443a-aa9e-0f050686c97e" />
 
 
 ---
