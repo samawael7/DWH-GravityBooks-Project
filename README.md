@@ -14,6 +14,13 @@ This project demonstrates end-to-end data warehouse design and implementation fo
 - 📈 Business intelligence ready for reporting
 - 🗂️ Fact and dimension tables with proper relationships
 
+
+## 🎯 Data Visualization - Dashboard
+
+
+<img width="1239" height="699" alt="image" src="https://github.com/user-attachments/assets/0774f38e-fc6b-4700-ac03-b96dbca681e8" />
+
+
 ---
 
 ## 🏗️ Architecture
