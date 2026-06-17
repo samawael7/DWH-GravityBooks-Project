@@ -54,6 +54,11 @@ This project demonstrates end-to-end data warehouse design and implementation fo
 
 ### SSIS Package Structure
 
+**Control Flow:**
+
+<img width="1506" height="385" alt="image" src="https://github.com/user-attachments/assets/193cc826-6f2d-4dad-b185-89283ee4f096" />
+
+
 **Load Dimensions:**
 
 <img width="324" height="417" alt="Load Dimensions" src="https://github.com/user-attachments/assets/a4ea4e2d-7117-45e4-9179-6b214a6ced88" />
