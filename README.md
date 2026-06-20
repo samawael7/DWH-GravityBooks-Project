@@ -183,13 +183,6 @@ ORDER BY d.year_num, d.month_num;
 
 **Sama Wael**
 - GitHub: [@samawael7](https://github.com/samawael7)
-
----
-
-## 📄 License
-
-This project is part of the ITI Data Engineering Track.
-
 ---
 
 *Data Warehouse & ETL Project - March 2026*
